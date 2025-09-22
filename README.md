@@ -85,5 +85,5 @@ main()
 
 **Result :**
 
- Thus the Bresenham’s algorithm was executed and verified successfully.
+ Thus the Bresenham’s algorithm was executed and verified successfully..
 
